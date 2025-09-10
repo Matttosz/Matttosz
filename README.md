@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I'm Muris 𖣂<br><br>🔐 Passionate about Cybersecurity  <br>☕ Java is my main programming language  <br>🐍 Currently learning Python  <br>💻 Technician in Systems Analysis and Development  <br><br> I'm a tech enthusiast with cybersecurity knowledge and software development.  <br>Always learning, always building, and damn sure creating something right now!
+## Hi, I'm Muris 
 
 
 ## 🌐 Socials:
